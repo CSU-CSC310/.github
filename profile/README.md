@@ -1,5 +1,4 @@
 ![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
-[![platform](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square)](https://x.com/intent/follow?screen_name=mscjaviergs)
 
 
 # CSC 310 — Software Engineering
